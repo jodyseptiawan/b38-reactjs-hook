@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Sepatu merah",
+    "desc": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "price": 150000,
+    "image": "https://images.unsplash.com/photo-1616470449751-a33290863c1f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "title": "Sepatu kuning",
+    "desc": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "price": 150000,
+    "image": "https://images.unsplash.com/photo-1622612017516-54223966d2cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "title": "Baju putih",
+    "desc": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "price": 120000,
+    "image": "https://images.unsplash.com/photo-1615670319396-d2ce67c79abd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1329&q=80"
+  }
+]
